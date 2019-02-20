@@ -14,7 +14,7 @@ with a random color assigned to each region.
 2) Run "segment sigma k min input output".
 
 like:
-./segment 0.5 500 20 beach.ppm beach-seg.ppm
+"  ./segment 0.5 500 20 beach.ppm beach-seg.ppm "
 
 
 The parameters are: (see the paper for details)
